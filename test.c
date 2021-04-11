@@ -10,7 +10,7 @@
 #include <sys/times.h>
 
 int* vV;
-int** caM;         // Matrix for the covering array
+int** caM;         // Matrix
 int N, k;
 
 
